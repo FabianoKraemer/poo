@@ -19,6 +19,7 @@ public class Principal {
         
         System.out.println("Sexta");
         System.out.println("Dia");
+        System.out.println("De fazer maldades");
 
     }
     
