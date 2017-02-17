@@ -9,6 +9,11 @@ public class Principal {
         System.out.println("Testando modificações no arquivo, quero pizza, cachorro quente e x salada");
     
         System.out.println("Terceira modificação, testando o envio pelo netbeans");
+        
+        for (int a = 0; a < 10; a++){
+            System.out.println(a);
+            
+        }
     }
     
 }
